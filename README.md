@@ -1,2 +1,2 @@
-# Trial
+# Mini Projects
 First repository
