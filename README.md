@@ -1,2 +1,2 @@
 # Mini Projects
-First repository
+Calculator using Tkinter
